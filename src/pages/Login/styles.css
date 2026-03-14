@@ -1,0 +1,46 @@
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.img {
+    position: absolute;
+    top: 20%;
+    left: 45%;
+
+    max-width: 50%;
+    height: auto;
+    display: block;
+
+}
+
+.formulario input{
+    display: block;
+    width: 300px;
+    margin-bottom: 10px;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.button1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    size: 14px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+    
+}
+
+.text{
+    font-family: 'Courier New', Courier, monospace;
+    size: 14px;
+    margin-bottom: 10px;
+    padding: 10px;
+}

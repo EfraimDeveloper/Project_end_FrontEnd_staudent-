@@ -1,0 +1,42 @@
+.container{
+    margin-left: 20px;
+}
+.text1{
+    color: red;
+}
+.button_new{
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+    text-decoration: none;
+    size: 60px;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.button{
+    background-color: brown;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 70px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+span{
+    display: flex;
+    justify-content: end;
+    padding: 10px;
+
+}
+
+input{
+    display: block;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+li{
+    margin-bottom: 10px;
+}
